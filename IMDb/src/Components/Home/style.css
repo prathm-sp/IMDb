@@ -1,0 +1,54 @@
+.row img{
+    width: 100%;
+}
+#span9{
+    left: 46.92532942898975vw;
+}
+#span8{
+    left: 43.265007320644216vw;
+}
+#span7{
+    left: 39.60468521229868vw;
+}
+#span6{
+    left: 35.94436310395315vw;
+}
+#span5{
+    left: 32.28404099560761vw;
+}
+#span4{
+    left:  28.62371888726208vw;
+}
+#span3{
+    left: 24.963396778916543vw;
+}
+#span2{
+    left: 21.30307467057101vw;
+}
+#span1{
+    left:17.642752562225475vw
+}
+
+.imagre{
+    width: 37.11566617862372vw;
+    height: 17.569546120058565vw,;
+}
+
+
+span{
+    position: relative;
+    color: #f5c518;
+    cursor: pointer;
+}
+#watch{
+    display: block;
+    position: relative;
+    background-color: #f5c518;
+    border: 1px solid;
+    border-radius: 0.5856515373352855vw;
+    width: 11.71303074670571vw;
+    top: 0.8052708638360175vw;
+    left: 1.2445095168374818vw;
+    height: 3.074670571010249vw;
+    font-weight: 1000;
+}

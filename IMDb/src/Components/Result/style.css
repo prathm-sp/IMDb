@@ -1,0 +1,15 @@
+.row img{
+    width: 100%;
+}
+#watch{
+    display: block;
+    position: relative;
+    background-color: #f5c518;
+    border: 1px solid;
+    border-radius: 8px;
+    width: 160px;
+    top: 11px;
+    left: 17px;
+    height: 42px;
+    font-weight: 1000;
+}

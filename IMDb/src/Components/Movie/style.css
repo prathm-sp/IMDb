@@ -1,0 +1,11 @@
+#watchlist{
+    background-color: #f5c518;
+    border: 1px solid;
+    width: 342px;
+    border-radius: 8px;
+    padding: 16px;
+    font-weight: 1000;
+    position: relative;
+    left: 97px;
+    cursor: pointer;
+}   

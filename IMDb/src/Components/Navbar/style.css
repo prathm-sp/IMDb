@@ -1,0 +1,87 @@
+* {
+    font-size: 1.2445095168374818vw;
+}
+
+#searchMovies{
+    position: relative;
+    background: #282828;
+    width: 514px;
+    height: auto;
+    left: 436px;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.navbar-brand {
+    background-color: #f5c518;
+    border: 1px solid;
+    width: 5.5vw;
+    border-radius: 8px;
+    padding: 0.5856515373352855vw;
+    font-weight: bolder;
+}
+#Navbar {
+    background-color: #121212;
+    color: white;
+}
+#navbarDropdown {
+    color: #f5eaea;
+    position: relative;
+    left: 17.27672035139092vw;
+}
+#forms {
+    background: white;
+    border: none;
+    position: relative;
+    left: 23.792093704245975vw;
+}
+.inputs {
+    position: relative;
+    border: none;
+    width: 29.282576866764277vw;
+}
+#quicksearch {
+    background: white;
+    position: relative;
+    width: 4.026354319180088vw;
+    padding: 0.43923865300146414vw;
+    font-weight: bolder;
+    height: 2.562225475841874vw;
+    left: 23.865300146412885vw;
+    cursor: pointer;
+    border: none;
+}
+#btn {
+    background: white;
+    border: none;
+    width: 3.8799414348462666vw;
+}
+#img {
+    width: 1.4641288433382138vw;
+    height: 1.4641288433382138vw;
+}
+#pro {
+    position: relative;
+    color: white;
+    background: transparent;
+    right: -27.311859vw;
+    cursor: pointer;
+}
+#watchList {
+    position: relative;
+    right: -29.654466vw;
+    cursor: pointer;
+}
+#signIN {
+    position: relative;
+    right: -32.509517vw;
+    cursor: pointer;
+}
+option {
+    background: #101010;
+    color: white;
+}
